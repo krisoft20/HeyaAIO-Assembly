@@ -1,5 +1,7 @@
 ## About The HeyaAIO
 
+![HeyaLogo](https://user-images.githubusercontent.com/53314225/161516285-90c64135-df8e-4766-a17a-a7ac8fc955ab.png)
+
 HeyaAIO is just ordinary AIO which contains:
 * Own Orbwalker,
 * Own Prediction,
@@ -30,3 +32,53 @@ This AIO is currently free but invite-only, so if you want to try it and play pl
 
 https://t.me/+b8lFi7ZCCjozMjRl 
 https://discord.gg/4PxFcY6whM
+
+## Getting Started
+To install or update you do the same i.e. just run HeyaAIO.Updater.exe from link below:
+https://www.mediafire.com/file/gqcy2dr2erxj291/HeyaAIO.Updater.exe/file
+
+Make sure you're not midgame and for a better experience open EnsoulSharp Loader before opening HeyaAIO.Updater.exe (because it will auto find path to it, otherwise you will need to select it manually).
+
+Run HeyaAIO.Updater.exe, select language and click button "start", he will take a while to download necessary files (around 10mb), after that time it will auto install HeyaAIO in Ensoulsharp Loader (reopen) and HeyaAIO should be installed.
+
+Go in game, paste your key and click button Login. If there is any update, just run HeyaAIO.Updater.exe, it will auto update itself.
+![image](https://user-images.githubusercontent.com/53314225/161516237-4c6b0856-522c-4055-8e28-72996c31837a.png)
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Enter your API in `config.js`
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+<p align="right">(<a href="#top">back to top</a>)</p>
