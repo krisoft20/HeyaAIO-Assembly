@@ -42,4 +42,5 @@ Make sure you're not midgame and for a better experience open EnsoulSharp Loader
 Run HeyaAIO.Updater.exe, select language and click button "start", he will take a while to download necessary files (around 10mb), after that time it will auto install HeyaAIO in Ensoulsharp Loader (reopen) and HeyaAIO should be installed.
 
 Go in game, paste your key and click button Login. If there is any update, just run HeyaAIO.Updater.exe, it will auto update itself.
+
 ![image](https://user-images.githubusercontent.com/53314225/161516237-4c6b0856-522c-4055-8e28-72996c31837a.png)
