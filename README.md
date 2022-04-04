@@ -25,7 +25,8 @@ HeyaAIO is just ordinary AIO which contains:
 *  - Yasuo,
 *  - Zeri
 
-This AIO is currently free but invite-only, so if you want to try it and play please contact Heya at telegram or discord :smile:
-https://t.me/+b8lFi7ZCCjozMjRl 
+This AIO is currently free but invite-only, so if you want to try it and play please contact Heya at telegram or discord 
+:smile:
 
+https://t.me/+b8lFi7ZCCjozMjRl 
 https://discord.gg/4PxFcY6whM
