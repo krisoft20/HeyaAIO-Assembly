@@ -6,7 +6,23 @@ HeyaAIO is just ordinary AIO which contains:
 * Own Orbwalker,
 * Own Prediction,
 * Own Activator - AutoCleanse
-* Own Awareness - Cooldown Notiflications, Cooldown Tracker, Destination Tracker, FakeCursor, GankDetector, HudTracker, Stasis Tracker, Clone Tracker, TeleportArrow, Ranges, SkinChanger
+* Own Awareness:
+*  - Cooldown Notiflication,
+*  - Cooldown Tracker,
+*  - Destination Tracker,
+*  - Exp Tracker,
+*  - Fake Cursor,
+*  - Gank Detector,
+*  - Last Position (Minimap),
+*  - Hud Tracker (Legacy and Modern),
+*  - Stasis Tracker,
+*  - Clone Tracker,
+*  - Teleport Notiflication Arrow,
+*  - Dragon & Baron & Herald being hit Notiflication,
+*  - Ranges,
+*  - Skin Changer,
+*  - Ward Tracker (include hidden traps),
+*  - Waypoints Tracker
 * Champions Scripts build in:
 *  - Annie,
 *  - Ashe,
