@@ -1,10 +1,12 @@
 ## About The HeyaAIO
 
-![HeyaLogo](https://user-images.githubusercontent.com/53314225/161516285-90c64135-df8e-4766-a17a-a7ac8fc955ab.png)
+![Banner](https://user-images.githubusercontent.com/53314225/176193399-6df4202e-8400-4c8b-b571-b1c7ea9fd78d.png)
+
 
 HeyaAIO is just ordinary AIO which contains:
 * Own Orbwalker,
 * Own Prediction,
+* Own Evade:
 * Own Activator:
   - AutoCleanse,
   - BaseULT,
@@ -27,16 +29,20 @@ HeyaAIO is just ordinary AIO which contains:
   - Waypoints Tracker,
   - Recall Tracker (include Teleports),
 * Champions Scripts build in:
-  - Annie,
+  - Aatrox,
+  - Aphelios,
   - Ashe,
-  - Caitlyn,
+  - Corki,
+  - Draven,
   - Ezreal,
   - Graves,
   - Irelia,
   - Jinx,
   - Kaisa,
   - Kalista,
+  - KogMaw,
   - Lucian,
+  - Qiyana,
   - Senna,
   - Syndra,
   - Tristana,
@@ -44,17 +50,19 @@ HeyaAIO is just ordinary AIO which contains:
   - Vayne,
   - Xerath,
   - Yasuo,
+  - Yone,
   - Zeri
 
-This AIO is currently free but invite-only, so if you want to try it and play please contact Heya at telegram or discord 
+This AIO is currently paid, and you can buy it via sellix: https://heya.sellix.io/ or contacting me privatetly.
 :smile:
 
 https://t.me/+b8lFi7ZCCjozMjRl 
 https://discord.gg/4PxFcY6whM
 
 ## Getting Started
-To install or update you do the same i.e. just run HeyaAIO.Updater.exe from link below:
+To install or update you do the same i.e. just run HeyaAIO.Updater.exe from link below or install manually using link:
 https://www.mediafire.com/file/gqcy2dr2erxj291/HeyaAIO.Updater.exe/file
+https://github.com/krisoft20/HeyaAIO-Assembly/
 
 Make sure you're not midgame and for a better experience open EnsoulSharp Loader before opening HeyaAIO.Updater.exe (because it will auto find path to it, otherwise you will need to select it manually).
 
