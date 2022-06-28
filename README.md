@@ -6,7 +6,7 @@
 HeyaAIO is just ordinary AIO which contains:
 * Own Orbwalker,
 * Own Prediction,
-* Own Evade:
+* Own Evade,
 * Own Activator:
   - AutoCleanse,
   - BaseULT,
