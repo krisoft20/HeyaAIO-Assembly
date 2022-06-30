@@ -61,7 +61,7 @@ https://discord.gg/4PxFcY6whM
 
 ## Getting Started
 To install or update you do the same i.e. just run HeyaAIO.Updater.exe from link below or install manually using link:
-https://www.mediafire.com/file/gqcy2dr2erxj291/HeyaAIO.Updater.exe/file
+[DON'T USE] https://www.mediafire.com/file/gqcy2dr2erxj291/HeyaAIO.Updater.exe/file
 
 https://github.com/krisoft20/HeyaAIO-Assembly/
 
