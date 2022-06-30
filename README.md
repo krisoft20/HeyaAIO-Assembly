@@ -61,8 +61,6 @@ https://discord.gg/4PxFcY6whM
 
 ## Getting Started
 To install or update you do the same i.e. just run HeyaAIO.Updater.exe from link below or install manually using link:
-[DON'T USE] https://www.mediafire.com/file/gqcy2dr2erxj291/HeyaAIO.Updater.exe/file
-
 https://github.com/krisoft20/HeyaAIO-Assembly/
 
 Make sure you're not midgame and for a better experience open EnsoulSharp Loader before opening HeyaAIO.Updater.exe (because it will auto find path to it, otherwise you will need to select it manually).
