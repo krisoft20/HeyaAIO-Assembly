@@ -63,6 +63,8 @@ https://discord.gg/4PxFcY6whM
 To install or update you do the same i.e. just run HeyaAIO.Updater.exe from link below or install manually using link:
 https://github.com/krisoft20/HeyaAIO-Assembly/
 
+Install HeyaAIO.Loader in Ensoulsharp Loader, and put HeyaAIO.Library into Ensoulsharp/Reference folder.
+
 Make sure you're not midgame and for a better experience open EnsoulSharp Loader before opening HeyaAIO.Updater.exe (because it will auto find path to it, otherwise you will need to select it manually).
 
 Run HeyaAIO.Updater.exe, select language and click button "start", he will take a while to download necessary files (around 10mb), after that time it will auto install HeyaAIO in Ensoulsharp Loader (reopen) and HeyaAIO should be installed.
