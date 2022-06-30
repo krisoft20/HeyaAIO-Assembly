@@ -53,7 +53,8 @@ HeyaAIO is just ordinary AIO which contains:
   - Yone,
   - Zeri
 
-This AIO is currently paid, and you can buy it via sellix: https://heya.sellix.io/ or contacting me privatetly.
+This AIO is currently paid, and you can buy it via sellix: https://heya.sellix.io/ or contact me privatetly which is better and please do that.
+https://www.paypal.com/paypalme/heya666666
 :smile:
 
 https://t.me/+b8lFi7ZCCjozMjRl 
